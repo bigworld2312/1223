@@ -4,7 +4,7 @@
 
 This is a copy of codes at CSE 1223 course at [The Ohio State Univeristy](http://www.osu.edu)
 
-Official Cousrse Page [CSE1223](http://http://web.cse.ohio-state.edu/cse1223/)
+Official Cousrse Page [CSE1223](http://web.cse.ohio-state.edu/cse1223/)
 
 ## Important Note
 *Student at The Ohio State Univeristy currently taking CSE1223 must not copy and paste codes in the reporsitory*
